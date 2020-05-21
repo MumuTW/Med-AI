@@ -3,12 +3,12 @@ Publish date: 2019 Nov 22.
 Journal: JAMA(IF:51.273)
 
 [Article](https://jamanetwork.com/journals/jama/article-abstract/2756196)
----
+______
 # Bias
 1. Social
 2. Statistical
 
-# Why Do AI Algorithms Automateand Perpetuate Bias?
+# Why Do AI Algorithms Automate and Perpetuate Bias?
 1. Artificial intelligence and machine learning are limited by the quality of training data
 2. Missing data in the EHR
 3. AI cannot identify bias automatically 
