@@ -1,7 +1,9 @@
 Publish date: 2019 Nov 22.
-Journal: JAMA(IF:51.273)
-[Article](https://jamanetwork.com/journals/jama/article-abstract/2756196)
 
+Journal: JAMA(IF:51.273)
+
+[Article](https://jamanetwork.com/journals/jama/article-abstract/2756196)
+---
 # Bias
 1. Social
 2. Statistical
